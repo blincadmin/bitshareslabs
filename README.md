@@ -1,2 +1,2 @@
-# bitshareslabs
+# Bitshares Labs Inc.
 Bitshares Labs
